@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.Curso3", "Csharp.Curso3\Csharp.Curso3.csproj", "{A0B1921C-D298-4CB5-92FB-1AD54277C353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B1921C-D298-4CB5-92FB-1AD54277C353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B1921C-D298-4CB5-92FB-1AD54277C353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B1921C-D298-4CB5-92FB-1AD54277C353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B1921C-D298-4CB5-92FB-1AD54277C353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E4863E-5B75-4C33-9E14-B96B956EB564}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+
+Este é um projeto utilizando Design Patterns para calcular impostos e outros que possam ser necessários implementar.
+
+Utiliza-se interface para manter um contrato, assim evita-se vários "if´s" tornando o projeto complexo com o tempo.
